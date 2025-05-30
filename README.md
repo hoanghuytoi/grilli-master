@@ -36,19 +36,11 @@ To run **Grilli** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
+sudo git clone https://github.com/hoanghuytoi/grilli-master.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git
+git clone https://github.com/hoanghuytoi/grilli-master.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
